@@ -6,7 +6,7 @@ I have been working primarily with Laminas MVC for backend servers, React for fr
 
 I am one of the maintainers for the [LM-Commons](https://github.com/LM-Commons) series of Laminas companion packages on GitHub.
 
-I write on [Medium](https://medium.com/@ericricher) every once in a while.
+I write on [Medium](https://medium.com/@eric.richer) every once in a while.
 
 👯 I am opened for opportunities in software development.
 
